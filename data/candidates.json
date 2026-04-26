@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "role": "Senior Software Engineer",
+    "experience_years": 8,
+    "skills": ["Python", "Django", "AWS", "Docker", "PostgreSQL", "React", "System Architecture"],
+    "summary": "Experienced full-stack developer with a strong focus on backend systems, cloud infrastructure, and building scalable Python applications.",
+    "interest_level_indicator": "High"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "role": "Data Scientist",
+    "experience_years": 5,
+    "skills": ["Python", "TensorFlow", "Scikit-Learn", "SQL", "Tableau", "Machine Learning", "NLP"],
+    "summary": "Data scientist specializing in natural language processing and predictive modeling. Proficient in transforming raw data into actionable insights.",
+    "interest_level_indicator": "Medium"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Davis",
+    "role": "Frontend Developer",
+    "experience_years": 4,
+    "skills": ["JavaScript", "React", "TypeScript", "HTML", "CSS", "Redux", "Jest"],
+    "summary": "Creative frontend engineer with a passion for building intuitive, accessible, and highly responsive user interfaces using React and modern JavaScript.",
+    "interest_level_indicator": "Low"
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "role": "Machine Learning Engineer",
+    "experience_years": 6,
+    "skills": ["Python", "PyTorch", "Kubernetes", "MLOps", "Computer Vision", "GCP", "C++"],
+    "summary": "Machine Learning Engineer experienced in deploying complex AI models into production environments and building robust MLOps pipelines.",
+    "interest_level_indicator": "High"
+  },
+  {
+    "id": 5,
+    "name": "Evan Wright",
+    "role": "DevOps Engineer",
+    "experience_years": 7,
+    "skills": ["Linux", "Bash", "Docker", "Kubernetes", "Terraform", "CI/CD", "AWS", "Python"],
+    "summary": "DevOps specialist focused on automating infrastructure, streamlining CI/CD pipelines, and ensuring high availability for cloud services.",
+    "interest_level_indicator": "High"
+  },
+  {
+    "id": 6,
+    "name": "Fiona Gallagher",
+    "role": "Product Manager",
+    "experience_years": 5,
+    "skills": ["Agile", "Scrum", "Jira", "Product Strategy", "User Research", "Data Analysis", "SQL"],
+    "summary": "Data-driven Product Manager with a track record of delivering user-centric software products and leading cross-functional teams.",
+    "interest_level_indicator": "Medium"
+  },
+  {
+    "id": 7,
+    "name": "George Miller",
+    "role": "Backend Developer",
+    "experience_years": 3,
+    "skills": ["Java", "Spring Boot", "MySQL", "Kafka", "Microservices", "REST APIs"],
+    "summary": "Backend developer with strong fundamentals in Java and building resilient microservices architectures for enterprise applications.",
+    "interest_level_indicator": "High"
+  },
+  {
+    "id": 8,
+    "name": "Hannah Brown",
+    "role": "Full Stack Developer",
+    "experience_years": 6,
+    "skills": ["Node.js", "Express", "MongoDB", "Angular", "TypeScript", "AWS"],
+    "summary": "Versatile full-stack developer experienced in the MEAN stack, capable of handling everything from database design to frontend implementation.",
+    "interest_level_indicator": "Low"
+  },
+  {
+    "id": 9,
+    "name": "Ian Curtis",
+    "role": "AI Researcher",
+    "experience_years": 9,
+    "skills": ["Python", "Deep Learning", "Generative AI", "PyTorch", "Research", "Mathematics"],
+    "summary": "AI researcher with published papers in top conferences, currently focused on large language models and generative AI applications.",
+    "interest_level_indicator": "Medium"
+  },
+  {
+    "id": 10,
+    "name": "Julia Roberts",
+    "role": "Cloud Architect",
+    "experience_years": 10,
+    "skills": ["AWS", "Azure", "GCP", "Cloud Security", "Enterprise Architecture", "Terraform", "Python"],
+    "summary": "Senior Cloud Architect adept at designing secure, cost-effective, and highly scalable multi-cloud solutions for global enterprises.",
+    "interest_level_indicator": "High"
+  }
+]
